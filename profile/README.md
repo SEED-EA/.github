@@ -1,6 +1,6 @@
 ## 
 
-<p align="center"><a href="https://seed.ea.com"><img src="SEED.png" width="150px"></a><br>
+<p align="center"><a href="https://seed.ea.com"><img src="profile/SEED.png" width="150px"></a><br>
 <b>SEED - Search for Extraordinary Experiences Division - Electronic Arts</b><br>
 <b>http://seed.ea.com</b><br>
 We are a cross-disciplinary team within EA Worldwide Studios.<br>
